@@ -5,7 +5,7 @@
 
 ## Description
 
-This is Netflix Clone that was created to mimic the style and feel of Netflix. You can browse current movie trailers in certain categories using a UI very similar to Netflix.
+This is a Netflix Clone that was created to mimic the style and feel of Netflix. You can browse current movie trailers in certain categories using a UI very similar to Netflix.
 
 <p align="center"><img  src="./readme_assets/netflix-pic01.jpg" width="50%"></p>
 
